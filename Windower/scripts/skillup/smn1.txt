@@ -1,0 +1,65 @@
+input /ma "Earth Spirit" <me>;
+wait 6
+input /pet "Release" <me>;
+wait 6
+input /ma "Air Spirit" <me>;
+wait 6
+input /pet "Release" <me>;
+wait 6
+input /ma "Earth Spirit" <me>;
+wait 6
+input /pet "Release" <me>;
+wait 6
+input /ma "Air Spirit" <me>;
+wait 6
+input /pet "Release" <me>;
+wait 6
+input /ma "Earth Spirit" <me>;
+wait 6
+input /pet "Release" <me>;
+wait 6
+input /ma "Air Spirit" <me>;
+wait 6
+input /pet "Release" <me>;
+wait 6
+input /ma "Earth Spirit" <me>;
+wait 6
+input /pet "Release" <me>;
+wait 6
+input /ma "Air Spirit" <me>;
+wait 6
+input /pet "Release" <me>;
+wait 6
+input /ma "Earth Spirit" <me>;
+wait 6
+input /pet "Release" <me>;
+wait 6
+input /ma "Air Spirit" <me>;
+wait 6
+input /pet "Release" <me>;
+wait 6
+input /ma "Earth Spirit" <me>;
+wait 6
+input /pet "Release" <me>;
+wait 6
+input /ma "Air Spirit" <me>;
+wait 6
+input /pet "Release" <me>;
+wait 6
+input /ma "Earth Spirit" <me>;
+wait 6
+input /pet "Release" <me>;
+wait 6
+input /ma "Air Spirit" <me>;
+wait 6
+input /pet "Release" <me>;
+wait 6
+input /ma "Earth Spirit" <me>;
+wait 6
+input /pet "Release" <me>;
+wait 6
+input /ma "Air Spirit" <me>;
+wait 6
+input /pet "Release" <me>;
+wait 6
+exec smn2.txt

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <autoload>
+  </autoload>
+  <profile name="Retail">
+    <region>US</region>
+    <consolekey>Grave</consolekey>
+    <windowmode>Window</windowmode>
+  </profile>
+  <profile name="Default PS login">
+    <region>US</region>
+    <consolekey>Grave</consolekey>
+    <windowmode>Window</windowmode>
+    <args>--server ffera.com --username</args>
+    <executable>C:\Program Files (x86)\PlayOnline\SquareEnix\PlayOnlineViewer\xiloader.exe</executable>
+  </profile>
+  <profile name="1st Account">
+    <region>US</region>
+    <consolekey>Grave</consolekey>
+    <windowmode>Window</windowmode>
+    <args>--server ffera.com --username ? --password ?</args>
+    <executable>C:\Program Files (x86)\PlayOnline\SquareEnix\PlayOnlineViewer\xiloader.exe</executable>
+  </profile>
+  <profile name="2nd Account">
+    <region>US</region>
+    <consolekey>Grave</consolekey>
+    <windowmode>Window</windowmode>
+    <args>--server ffera.com --username ? --password ?</args>
+    <executable>C:\Program Files (x86)\PlayOnline\SquareEnix\PlayOnlineViewer\xiloader.exe</executable>
+  </profile>
+  <profile name="3nd Account">
+    <region>US</region>
+    <consolekey>Grave</consolekey>
+    <windowmode>Window</windowmode>
+    <args>--server ffera.com --username ? --password ?</args>
+    <executable>C:\Program Files (x86)\PlayOnline\SquareEnix\PlayOnlineViewer\xiloader.exe</executable>
+  </profile>
+</settings>

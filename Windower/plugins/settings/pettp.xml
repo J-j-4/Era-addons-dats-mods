@@ -1,0 +1,19 @@
+<settings>
+    <global>
+        <font>Arial</font>
+        <fontSize>10</fontSize>
+        <textA>255</textA>
+        <textR>255</textR>
+        <textG>255</textG>
+        <textB>255</textB>
+        <bold>false</bold>
+        <xPos>10</xPos>
+        <yPos>170</yPos>
+        <backgroundA>190</backgroundA>
+        <backgroundR>0</backgroundR>
+        <backgroundG>0</backgroundG>
+        <backgroundB>0</backgroundB>
+        <bgVisible>true</bgVisible>
+        <autoColor>true</autoColor>
+    </global>
+</settings>

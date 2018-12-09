@@ -1,0 +1,221 @@
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+input /ma mages ballad;
+wait 13
+input /ma sword madrigal;
+wait 13
+input /ma valor minuet;
+wait 13
+input /ma advancing march;
+wait 13
+exec sing.txt

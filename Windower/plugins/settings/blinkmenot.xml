@@ -1,0 +1,26 @@
+<settings>
+    <global>
+        <TargetSelf>false</TargetSelf>
+        <TargetFollow>true</TargetFollow>
+        <TargetParty>true</TargetParty>
+        <targetally>true</targetally>
+        <TargetOthers>true</TargetOthers>
+        <CombatSelf>true</CombatSelf>
+        <CombatFollow>true</CombatFollow>
+        <CombatParty>true</CombatParty>
+        <combatally>true</combatally>
+        <CombatOthers>true</CombatOthers>
+        <alwaysself>true</alwaysself>
+        <alwaysfollow>true</alwaysfollow>
+        <alwaysparty>true</alwaysparty>
+        <alwaysally>true</alwaysally>
+        <alwaysothers>true</alwaysothers>
+        <TargetAlly>true</TargetAlly>
+        <CombatAlly>false</CombatAlly>
+        <AlwaysSelf>false</AlwaysSelf>
+        <AlwaysFollow>true</AlwaysFollow>
+        <AlwaysParty>false</AlwaysParty>
+        <AlwaysAlly>false</AlwaysAlly>
+        <AlwaysOthers>false</AlwaysOthers>
+    </global>
+</settings>

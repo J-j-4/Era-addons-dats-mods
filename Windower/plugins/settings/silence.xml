@@ -1,0 +1,7 @@
+<settings>
+    <global>
+        <EquipFloodLimit>1800</EquipFloodLimit>
+        <ErrorFloodLimit>1800</ErrorFloodLimit>
+        <showMessage>true</showMessage>
+    </global>
+</settings>

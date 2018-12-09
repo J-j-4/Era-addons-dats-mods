@@ -1,0 +1,63 @@
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+input /ma dia <t>;
+/wait 10
+exec enfeeble.txt
